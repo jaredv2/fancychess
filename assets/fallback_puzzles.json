@@ -1,0 +1,2075 @@
+{
+  "puzzles": [
+    {
+      "game": {
+        "id": "otQPfQUG",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "teluguammayi",
+            "flair": "objects.crown",
+            "id": "teluguammayi",
+            "color": "white",
+            "rating": 2127
+          },
+          {
+            "name": "Canalito",
+            "id": "canalito",
+            "color": "black",
+            "rating": 2244
+          }
+        ],
+        "pgn": "c4 e5 g3 d6 Bg2 Nc6 Nc3 Nf6 Nf3 Be7 d4 Bg4 dxe5 Nd7 exd6 Bxd6 O-O Qe7 Nd5 Qf8 b3 O-O-O Bb2 h5 Nd4 Nxd4 Qxd4 Be5 Qxa7 Bxb2 Ne7+ Qxe7",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "tlst4",
+        "rating": 1289,
+        "plays": 207,
+        "solution": [
+          "g2b7"
+        ],
+        "themes": [
+          "middlegame",
+          "queensideAttack",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 31
+      }
+    },
+    {
+      "game": {
+        "id": "Yuy1vbkC",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Alexchess57",
+            "id": "alexchess57",
+            "color": "white",
+            "rating": 2008
+          },
+          {
+            "name": "necatoramericano",
+            "id": "necatoramericano",
+            "color": "black",
+            "rating": 2095
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 h3 Be7 O-O O-O Nc3 Nd4 Ba4 Nxf3+ Qxf3 b6 Bg5 Bb7 Bb3 c6 Ne2 h6 Bh4 Nh7 Bxe7 Qxe7 Ng3 Ng5 Qe3 Qf6 Nf5 Bc8 Ng3 Kh7 Kh2 Ne6 Bxe6 fxe6 c3 Bb7 Ne2 d5 f4 dxe4 dxe4 c5 Rf2 Rf7 Raf1 Raf8 Kg1 Qg6 f5 exf5 exf5 Rxf5 Rxf5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "Vf482",
+        "rating": 1424,
+        "plays": 960,
+        "solution": [
+          "g6g2"
+        ],
+        "themes": [
+          "middlegame",
+          "oneMove",
+          "mateIn1",
+          "kingsideAttack"
+        ],
+        "initialPly": 58
+      }
+    },
+    {
+      "game": {
+        "id": "uS3NanMc",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "antsouffrant",
+            "id": "antsouffrant",
+            "color": "white",
+            "rating": 1826
+          },
+          {
+            "name": "kont3",
+            "id": "kont3",
+            "color": "black",
+            "rating": 1775
+          }
+        ],
+        "pgn": "c4 e5 Nc3 Bc5 e3 d6 Nge2 a6 d4 exd4 exd4 Bb6 Be3 h6 Qd2 Nf6 O-O-O O-O h3 Re8 Bxh6 gxh6 Qxh6 Nh7 Rd3 Qg5+ Qxg5+ Nxg5 Rg3 Nc6 h4 f6 hxg5 fxg5 Rxg5+ Kf7 Nd5 Nxd4 Rh7+ Kf8 Nf6 Nxe2+ Bxe2 Be6 Rg8+ Bxg8",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "mUhPN",
+        "rating": 1282,
+        "plays": 537,
+        "solution": [
+          "f6d7"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "middlegame"
+        ],
+        "initialPly": 45
+      }
+    },
+    {
+      "game": {
+        "id": "6q7GsngB",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "alphaprime7",
+            "id": "alphaprime7",
+            "color": "white",
+            "rating": 1706
+          },
+          {
+            "name": "Lotnisko",
+            "flair": "smileys.angry-face-with-horns",
+            "id": "lotnisko",
+            "color": "black",
+            "rating": 1783
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Nc6 Bb5 d6 d4 exd4 Nxd4 Bd7 Nc3 Nge7 Bxc6 Nxc6 O-O Qe7 Nf5 Qf6 Nd5 Qd8 Bg5 f6 Nxf6+ gxf6",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "YSPdi",
+        "rating": 1268,
+        "plays": 482,
+        "solution": [
+          "d1h5"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "opening"
+        ],
+        "initialPly": 23
+      }
+    },
+    {
+      "game": {
+        "id": "1WfbRNrR",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Nahabi",
+            "id": "nahabi",
+            "color": "white",
+            "rating": 2006
+          },
+          {
+            "name": "aquiless",
+            "id": "aquiless",
+            "color": "black",
+            "rating": 1999
+          }
+        ],
+        "pgn": "e4 c5 Nf3 Nf6 Nc3 d6 Bb5+ Bd7 Bxd7+ Nbxd7 O-O g6 d4 cxd4 Nxd4 Bg7 Re1 O-O Qf3 Qb6 Nb3 Ne5 Qe3 Nfg4 Qxb6 axb6 h3 Nf6 Be3 Nc4 Nd5 Nxd5 exd5 Nxb2 Bxb6 Nc4 Bd4 Rfe8 Bxg7 Kxg7 Nd4 Ra3 Rab1 Rxa2 Rxb7 Ra5 Rexe7 Rxe7 Rxe7 Rxd5 c3 Kf6 Rc7 Rc5 Rd7 g5 Kh2 h5 g3 Rd5 g4 h4 Kg2 Ne5 Rd8 Ke7 Rg8 f6 Nf5+ Kf7 Rg7+ Kf8 Rc7 Rc5 Ra7 d5 Ra8+ Kf7 Ra7+ Ke6",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "cYTBy",
+        "rating": 1266,
+        "plays": 6826,
+        "solution": [
+          "a7e7"
+        ],
+        "themes": [
+          "hookMate",
+          "endgame",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 79
+      }
+    },
+    {
+      "game": {
+        "id": "wFDJnlxw",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Chalawan",
+            "title": "GM",
+            "id": "chalawan",
+            "color": "white",
+            "rating": 2738
+          },
+          {
+            "name": "unknown-maestro_2450",
+            "title": "IM",
+            "flair": "nature.cat",
+            "id": "unknown-maestro_2450",
+            "color": "black",
+            "rating": 2645
+          }
+        ],
+        "pgn": "e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 Bg6 h4 h6 Nf3 Nf6 Ne5 Bh7 Bc4 e6 c3 Nbd7 f4 Be7 Qe2 O-O Bd2 b5 Bb3 Nxe5 fxe5 Nd5 Qg4 Kh8 Nh5 Bg6 Nxg7 Kxg7 h5 Bg5 hxg6 Bxd2+ Kxd2 fxg6 Bc2 Rf2+ Kd3 Rxc2 Raf1 Rxb2 Rf3 c5 Rfh3 c4+ Ke4 Qf8 Qxe6 Rd8 Qg4 Re2+ Qxe2",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "n5qQd",
+        "rating": 1366,
+        "plays": 1894,
+        "solution": [
+          "f8f4"
+        ],
+        "themes": [
+          "endgame",
+          "master",
+          "masterVsMaster",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 58
+      }
+    },
+    {
+      "game": {
+        "id": "apwuv4X3",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "aljhamy",
+            "id": "aljhamy",
+            "color": "white",
+            "rating": 1787
+          },
+          {
+            "name": "Canuck4everr",
+            "id": "canuck4everr",
+            "color": "black",
+            "rating": 1785
+          }
+        ],
+        "pgn": "c4 e5 g3 Nf6 Bg2 Bc5 Nc3 d6 e3 c6 a3 Be6 b4 Bb6 Nge2 Bxc4 O-O Qd7 d3 Be6 d4 exd4 exd4 Bh3 Re1 Bxg2 Nf4+ Kd8 Kxg2 Re8 Be3 Ng4 Na4 Nxe3+ fxe3 Bc7 Qd3 c5 dxc5 Qxa4 cxd6 Qc6+ Nd5 Qxd6 Rad1 Qc6 e4 Nd7 b5 Qd6 Qc3 Bb6 Nxb6 Qxb6 Qxg7 Qxb5 Rd5 Qc4 Qf6+ Kc7 Qf4+ Kd8 Rc1 Qa2+ Kh3 Qxa3 Qc7+ Ke7 Qxd7+ Kf8 Rc7 Re7 Rc8+ Rxc8 Qxc8+ Re8 Rd8 Rxd8 Qxd8+ Kg7 Qd4+ Kf8 Qh8+ Ke7 Qe5+ Kf8 Qb8+ Kg7 Qxb7 Qa4 Qb2+ Kf8 e5 Qd7+ g4 Qd3+ Kh4 Qd8+ Kh5 Qe7 Qb8+ Kg7 Qb2 Qe6 g5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "QZAyv",
+        "rating": 1297,
+        "plays": 8907,
+        "solution": [
+          "e6h3"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "endgame",
+          "queenEndgame"
+        ],
+        "initialPly": 104
+      }
+    },
+    {
+      "game": {
+        "id": "mriMv8Xw",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "milov",
+            "id": "milov",
+            "color": "white",
+            "rating": 1948
+          },
+          {
+            "name": "Crapstick",
+            "id": "crapstick",
+            "color": "black",
+            "rating": 1628
+          }
+        ],
+        "pgn": "e4 e5 Nf3 f5 exf5 Bc5 d3 Nc6 Ng5 Nf6 Be2 d5 Bh5+ g6 fxg6 Bxf2+ Kxf2 Nxh5 Qxh5 Qf6+ Kg1 hxg6 Qe2 Nd4 Qd1 Bf5 Nc3 O-O-O a4 Qb6 Be3 Qxb2 Nb5 Nxb5 axb5 Rhf8 Rxa7 Kb8 Ra1 d4 Bd2 e4 Rb1 Qa3 Bb4 Qa4 Bxf8 Rxf8 dxe4 Be6 Nxe6 d3 Nc5",
+        "clock": "5+5"
+      },
+      "puzzle": {
+        "id": "nnkjD",
+        "rating": 1344,
+        "plays": 2468,
+        "solution": [
+          "a4d4"
+        ],
+        "themes": [
+          "endgame",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 52
+      }
+    },
+    {
+      "game": {
+        "id": "t3RlX4nW",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "brazperrone",
+            "id": "brazperrone",
+            "color": "white",
+            "rating": 1622
+          },
+          {
+            "name": "JFL26",
+            "id": "jfl26",
+            "color": "black",
+            "rating": 1720
+          }
+        ],
+        "pgn": "c4 Nf6 Nf3 b6 g3 Bb7 Bg2 e6 Nc3 d5 Ne5 dxc4 Bxb7 Nbd7 Bxa8 Qxa8 Nxd7",
+        "clock": "5+3"
+      },
+      "puzzle": {
+        "id": "lcODa",
+        "rating": 1265,
+        "plays": 844,
+        "solution": [
+          "a8h1"
+        ],
+        "themes": [
+          "middlegame",
+          "oneMove",
+          "mateIn1",
+          "backRankMate",
+          "hangingPiece"
+        ],
+        "initialPly": 16
+      }
+    },
+    {
+      "game": {
+        "id": "msXIw4lH",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "ajajajaj",
+            "id": "ajajajaj",
+            "color": "white",
+            "rating": 2022
+          },
+          {
+            "name": "Kaskad451",
+            "id": "kaskad451",
+            "color": "black",
+            "rating": 2052
+          }
+        ],
+        "pgn": "e4 c6 d4 d5 exd5 cxd5 Nf3 Bf5 Nc3 e6 Bf4 a6 h3 Bd6 Bg3 Bxg3 fxg3 Nc6 Nh4 Bg6 Nxg6 hxg6 Be2 Nf6 Bf3 Qb6 O-O Qxd4+ Kh2 Qxd1 Raxd1 Ke7 Rfe1 Rhd8 Nxd5+ Nxd5 Bxd5 Kf8 Bxc6 bxc6 b3 Rxd1 Rxd1 Ke7 a4 Rd8 Rxd8 Kxd8 g4 Ke7 Kg3 Kf6 Kf4 g5+ Ke4 c5 c3 a5 g3 g6 b4 cxb4 cxb4 axb4 Kd4 b3 Kc3 e5 a5 Ke6 Kxb3 Kd6 Kc4 f6 Kb5 Kc7 a6 Kb8 h4 gxh4 gxh4 Ka7 h5 gxh5 gxh5 e4 h6 e3 h7 e2 h8=Q e1=Q Qg7+ Kb8",
+        "clock": "15+10"
+      },
+      "puzzle": {
+        "id": "jRiYC",
+        "rating": 1270,
+        "plays": 4125,
+        "solution": [
+          "g7b7"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "endgame",
+          "queenEndgame"
+        ],
+        "initialPly": 93
+      }
+    },
+    {
+      "game": {
+        "id": "wOK5enaT",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Teejay86",
+            "id": "teejay86",
+            "color": "white",
+            "rating": 1585
+          },
+          {
+            "name": "SAU80",
+            "id": "sau80",
+            "color": "black",
+            "rating": 1712
+          }
+        ],
+        "pgn": "e4 d5 exd5 Qxd5 Nc3 Qa5 Nf3 Bg4 h3 Bh5 g4 Bg6 d4 h5 Ne5 hxg4 Qxg4 Nf6",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "UUdMn",
+        "rating": 1428,
+        "plays": 2755,
+        "solution": [
+          "g4c8"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "opening"
+        ],
+        "initialPly": 17
+      }
+    },
+    {
+      "game": {
+        "id": "gJeVaOQA",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "AlexErm",
+            "id": "alexerm",
+            "color": "white",
+            "rating": 1912
+          },
+          {
+            "name": "lennimitt",
+            "id": "lennimitt",
+            "color": "black",
+            "rating": 1975
+          }
+        ],
+        "pgn": "e4 c6 d3 d5 Be2 dxe4 dxe4 Qxd1+ Bxd1 e5 Nf3 f6 Nc3 Bb4 Bd2 Be6 O-O Ne7 a3 Bc5 Na4 Bd6 Bb4 Bxb4 axb4 O-O Nc5 Bc8 c4 b6 Nd3 Rd8 Bc2 Nd7 Ra2 Nf8 Rfa1 a6 b5 a5 b4 Be6 bxa5 bxa5 Rxa5 Rxa5 Rxa5 Bxc4 Nfe1 cxb5 Nb2 Nc6 Nxc4 bxc4 Rc5 Nd4 Rxc4 Nxc2 Rxc2 Rd1 Kf1 Ne6 Ke2 Ra1 Nf3 Nf4+ Kd2 Nxg2 Rb2 Nf4 Rc2 Ra3 Nh4 Rh3 Nf5 g6 Rc8+ Kf7 Rc7+ Ke6",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "YHvdx",
+        "rating": 1318,
+        "plays": 2352,
+        "solution": [
+          "c7e7"
+        ],
+        "themes": [
+          "hookMate",
+          "endgame",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 79
+      }
+    },
+    {
+      "game": {
+        "id": "PZ7x8Xtf",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "rkvd4",
+            "id": "rkvd4",
+            "color": "white",
+            "rating": 2128
+          },
+          {
+            "name": "Alexzez717",
+            "id": "alexzez717",
+            "color": "black",
+            "rating": 2085
+          }
+        ],
+        "pgn": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 d6 Nc3 g6 Be3 Bg7 Qd2 Nf6 f3 O-O Bc4 Bd7 O-O-O a5 h4 a4 h5 Ne5 Bb5 Bxb5 Ndxb5 Nc4 Qf2 Nxe3 Qxe3 Qa5 hxg6 fxg6 Nd4 a3 b3 Rac8 Nd5 Nxd5 exd5 Qc3 Qxe7 Rf7 Qh4 Bxd4 Qxd4",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "rf04T",
+        "rating": 1273,
+        "plays": 10311,
+        "solution": [
+          "c3c2"
+        ],
+        "themes": [
+          "endgame",
+          "queensideAttack",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 46
+      }
+    },
+    {
+      "game": {
+        "id": "JOjJUAnh",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "m1803",
+            "id": "m1803",
+            "color": "white",
+            "rating": 2010
+          },
+          {
+            "name": "Hauknestind",
+            "id": "hauknestind",
+            "color": "black",
+            "rating": 1976
+          }
+        ],
+        "pgn": "e4 d5 exd5 Qxd5 Nc3 Qd8 d4 Nf6 Bc4 a6 a4 Nc6 Nge2 Bg4 f3 Bh5 O-O e6 Be3 Ne7 Nf4 Bg6 d5 e5 Nfe2 Nf5 Bf2 Bd6 Re1 O-O Ne4 Be7 N2c3 Nd6 Bb3 Bxe4 fxe4 Nd7 Qd3 Bh4 Rf1 Bxf2+ Rxf2 Nc5 Qf3 Nxb3 cxb3 f6 Raf1 Nf7 Qg4 Nh6 Qg3 Qd6 Qh3 Rad8 Rf3 Qd7 Qh4 Qd6 g4 Qb6+ Kg2 Qxb3 R1f2 Nf7 Nb5 Qxa4 Nxc7 Qxe4 Ne6 Ng5 Nxg5 fxg5 Qg3 Qxd5 Kh3 Rxf3 Rxf3 Qd6 Qf2 Qh6+ Kg2 Qd6 Kh3 Rf8 Rxf8+ Qxf8 Qe3 Qf4 Qb3+ Qf7 Qe3 Qf6 Qb3+ Qf7 Qe3 Qe7 Qb3+ Kh8 Qc4 Qe8 Qe4 b5 b4 g6 Kg2 Kg7 Qb7+ Kh6 Qe4 Qe6 Qf3 e4",
+        "clock": "6+15"
+      },
+      "puzzle": {
+        "id": "BLckX",
+        "rating": 1314,
+        "plays": 13393,
+        "solution": [
+          "f3f8"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "endgame",
+          "queenEndgame"
+        ],
+        "initialPly": 113
+      }
+    },
+    {
+      "game": {
+        "id": "ZCyTlbjO",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "adfost8",
+            "id": "adfost8",
+            "color": "white",
+            "rating": 2127
+          },
+          {
+            "name": "goranmagnum",
+            "id": "goranmagnum",
+            "color": "black",
+            "rating": 2139
+          }
+        ],
+        "pgn": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Ndb5 d6 Bg5 a6 Na3 b5 Bxf6 gxf6 Nd5 f5 Bxb5 axb5 Nxb5 Ra4 b4 Rxb4 Nbc7+ Kd7 O-O Rxe4 Qh5 Ne7 Qxf7 Kc6 c4 Bh6 Rab1 Nxd5 cxd5+ Kc5 Ne6+ Bxe6 Qa7+ Kxd5 Rb5+ Kc6",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "Xuvwu",
+        "rating": 1338,
+        "plays": 2409,
+        "solution": [
+          "a7b7"
+        ],
+        "themes": [
+          "middlegame",
+          "oneMove",
+          "triangleMate",
+          "mateIn1"
+        ],
+        "initialPly": 45
+      }
+    },
+    {
+      "game": {
+        "id": "MeCDNwtL",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "PapMher",
+            "id": "papmher",
+            "color": "white",
+            "rating": 1827
+          },
+          {
+            "name": "Cr1z",
+            "id": "cr1z",
+            "color": "black",
+            "rating": 1818
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Nc6 h3 Bc5 c3 Nf6 d3 O-O Bg5 h6 Bh4 Be7 Bg3 d6 Nh2 Be6 Qf3 Qd7 Be2 d5 Nd2 Bd6 Bh4 dxe4 dxe4 Nh7 Nc4 Ne7 Bxe7 Qxe7 Nxd6 cxd6 O-O Ng5 Qe3 f5 exf5 Rxf5 b3 Raf8 Bg4 Rf4 Bxe6+ Qxe6 Qxa7 Nxh3+ gxh3 Qxh3 Qe3 Rf3 Qe4 R8f4 Qd5+ Kh8 Nxf3",
+        "clock": "10+5"
+      },
+      "puzzle": {
+        "id": "AMnqy",
+        "rating": 1272,
+        "plays": 86,
+        "solution": [
+          "f4g4"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "endgame"
+        ],
+        "initialPly": 56
+      }
+    },
+    {
+      "game": {
+        "id": "RVcuTL1Y",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "pacogaro",
+            "id": "pacogaro",
+            "color": "white",
+            "rating": 2377
+          },
+          {
+            "name": "Udar59",
+            "title": "FM",
+            "id": "udar59",
+            "color": "black",
+            "rating": 2385
+          }
+        ],
+        "pgn": "e4 c6 c4 d5 cxd5 cxd5 exd5 Nf6 Bb5+ Bd7 Bc4 g6 Qb3 Qc8 Nc3 Bg7 Nf3 O-O O-O a6 a4 a5 Re1 Re8 d4 Na6 Ne5 Nb4 h3 Bf5 Re2 Nd7 Bf4 Nxe5 dxe5 Bc2 Rxc2 Nxc2 Rd1 Nb4 d6 Qf5 Bg3 exd6 exd6 Rad8 Nb5 Rf8 Be2 b6 Rd2 Qg5 f4 Qf6 Bf3 Rfe8 Kh2 h5 Qc4 h4 Bf2 Qf5 Bxb6 Bh6 Rd4 Re1 Bxa5 Qb1 g4 hxg3+ Kxg3 Rg1+ Kf2",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "xDM2E",
+        "rating": 1388,
+        "plays": 6310,
+        "solution": [
+          "b1e1"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "master",
+          "middlegame"
+        ],
+        "initialPly": 72
+      }
+    },
+    {
+      "game": {
+        "id": "MRC8CF1v",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Ramil_MrSuave",
+            "id": "ramil_mrsuave",
+            "color": "white",
+            "rating": 1686
+          },
+          {
+            "name": "mjdowney",
+            "id": "mjdowney",
+            "color": "black",
+            "rating": 1673
+          }
+        ],
+        "pgn": "d4 e5 d5 Bc5 c4 c6 Nc3 Nf6 Bg5 Bxf2+ Kxf2 Ng4+ Ke1 Qxg5 Nf3 Qe3 Qd3 Qf2+ Kd2 Na6 dxc6 Nc5 cxd7+ Bxd7 Qd6 e4 Nd4 Qe3+ Kc2 b6 Rd1 Rd8 Kb1 Nf2 Nc6 Bxc6",
+        "clock": "5+3"
+      },
+      "puzzle": {
+        "id": "Ce5Ee",
+        "rating": 1352,
+        "plays": 3092,
+        "solution": [
+          "d6d8"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 35
+      }
+    },
+    {
+      "game": {
+        "id": "5Q9F5nNy",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "JonoBKD_PCTR",
+            "id": "jonobkd_pctr",
+            "color": "white",
+            "rating": 2257
+          },
+          {
+            "name": "vincentmia",
+            "id": "vincentmia",
+            "color": "black",
+            "rating": 2268
+          }
+        ],
+        "pgn": "d4 d5 e4 dxe4 f3 exf3 Nxf3 Nf6 Bc4 c6 O-O e6 Nc3 Bd6 Qe2 Nbd7 Bg5 Qc7 Kh1 h6 Bh4 a5 Rae1 b5 Bxe6 fxe6 Qxe6+ Kf8 Ne5 Bxe5 dxe5 Nxe5 Rxf6+ Nf7",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "LNJxI",
+        "rating": 1274,
+        "plays": 4114,
+        "solution": [
+          "e6e8"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "middlegame"
+        ],
+        "initialPly": 33
+      }
+    },
+    {
+      "game": {
+        "id": "HDj7HOo2",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "d_a_matist",
+            "flair": "nature.phoenix-bird",
+            "id": "d_a_matist",
+            "color": "white",
+            "rating": 1963
+          },
+          {
+            "name": "Koroshkabir1",
+            "id": "koroshkabir1",
+            "color": "black",
+            "rating": 1951
+          }
+        ],
+        "pgn": "e4 e6 d4 d6 d5 a6 dxe6 fxe6 Nf3 Nd7 Nd4 Nb6 Bd3 e5 Nf5 g6 O-O gxf5 Qh5+ Kd7 f4 Be7 fxe5 dxe5 Qxf5+ Ke8 Qf7+ Kd7 Rd1 Qf8",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "xRaoa",
+        "rating": 1321,
+        "plays": 1341,
+        "solution": [
+          "d3b5"
+        ],
+        "themes": [
+          "discoveredCheck",
+          "oneMove",
+          "opening",
+          "mateIn1",
+          "pillsburysMate",
+          "doubleCheck"
+        ],
+        "initialPly": 29
+      }
+    },
+    {
+      "game": {
+        "id": "KGB2cJb3",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Ticco",
+            "id": "ticco",
+            "color": "white",
+            "rating": 2005
+          },
+          {
+            "name": "shadow314",
+            "id": "shadow314",
+            "color": "black",
+            "rating": 2046
+          }
+        ],
+        "pgn": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Be2 Bg7 Be3 O-O O-O Nc6 f4 Qb6 e5 dxe5 fxe5 Nxe5 Nf5 Qxb2 Nxe7+ Kh8 Bd4 Qa3 Bxe5 Qxe7 Bxf6 Bxf6 Nd5 Qc5+ Kh1 Bg7 c4 Bf5 Rc1 Rfe8 Bd3 Bxd3 Qxd3 Rad8 Qf3 Rd7 Qh3 Qd6 Rcd1 Qc6 Nf6 Rxd1",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "tzGiG",
+        "rating": 1277,
+        "plays": 7868,
+        "solution": [
+          "h3h7"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 51
+      }
+    },
+    {
+      "game": {
+        "id": "Iz8J9M8T",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "vladimir777",
+            "id": "vladimir777",
+            "color": "white",
+            "rating": 1892
+          },
+          {
+            "name": "aera4",
+            "id": "aera4",
+            "color": "black",
+            "rating": 1884
+          }
+        ],
+        "pgn": "e4 e5 f4 exf4 Nf3 d6 Bc4 h6 d4 g5 O-O Bg7 c3 Be6 Bb5+ c6 Ba4 Ne7 g3 fxg3 hxg3 O-O Bxg5 hxg5 Nxg5 Re8 Qh5 Nd7 Qh7+ Kf8",
+        "clock": "5+3"
+      },
+      "puzzle": {
+        "id": "Fk4rX",
+        "rating": 1340,
+        "plays": 1933,
+        "solution": [
+          "g5e6"
+        ],
+        "themes": [
+          "middlegame",
+          "oneMove",
+          "mateIn1",
+          "pin"
+        ],
+        "initialPly": 29
+      }
+    },
+    {
+      "game": {
+        "id": "9LPWrDgc",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Ghaazzii",
+            "id": "ghaazzii",
+            "color": "white",
+            "rating": 1838
+          },
+          {
+            "name": "RanjitPisal",
+            "id": "ranjitpisal",
+            "color": "black",
+            "rating": 1867
+          }
+        ],
+        "pgn": "e4 Nc6 f4 e5 fxe5 Nxe5 d4 Qh4+ g3 Qxe4+ Qe2 Qxh1 Qxe5+ Ne7 Bg5 f6 Bxf6 gxf6 Qh5+ Kd8 Nd2 Qxg1 O-O-O Qxd4 Nf3 Qe3+ Kb1 Qb6 Bh3 Bg7 Qf7 Rg8 Nh4 d6 Bxc8 Rxc8 Re1 Bf8 Nf5 Qa5 Rxe7 Qxf5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "jufR5",
+        "rating": 1265,
+        "plays": 165,
+        "solution": [
+          "e7e8"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "endgame"
+        ],
+        "initialPly": 41
+      }
+    },
+    {
+      "game": {
+        "id": "mTu9KEO6",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "misha_genelev",
+            "flair": "activity.lichess-hogger",
+            "id": "misha_genelev",
+            "color": "white",
+            "rating": 1889
+          },
+          {
+            "name": "muratkpr",
+            "patron": true,
+            "patronColor": 1,
+            "id": "muratkpr",
+            "color": "black",
+            "rating": 1937
+          }
+        ],
+        "pgn": "d4 d5 Bg5 h6 Bh4 Nf6 e3 e6 c4 Be7 Bxf6 Bxf6 cxd5 Qxd5 Nc3 Qa5 Nf3 O-O Be2 b6 O-O Bb7 Ne5 Nc6 Nd7 Rfd8 Nxf6+ gxf6 Bd3 f5 Qh5 Kh7 Ne2 Rf8 Kh1 Ba6 Bc2 Qd2 Bd1 Qxb2 Rg1 Qxa1 g4 Ne7 g5 Ng6 Qxh6+ Kg8 Nf4 Nxf4 exf4 Qxd4 g6 Bb7+ f3 Qh8 Qg5 Qg7 Qh5 Qh8",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "qg0lD",
+        "rating": 1323,
+        "plays": 1355,
+        "solution": [
+          "g6f7"
+        ],
+        "themes": [
+          "advancedPawn",
+          "middlegame",
+          "discoveredCheck",
+          "oneMove",
+          "doubleCheck",
+          "mateIn1",
+          "kingsideAttack"
+        ],
+        "initialPly": 59
+      }
+    },
+    {
+      "game": {
+        "id": "xEVS3Dy4",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "saulomonstro",
+            "id": "saulomonstro",
+            "color": "white",
+            "rating": 1933
+          },
+          {
+            "name": "alex505",
+            "id": "alex505",
+            "color": "black",
+            "rating": 1977
+          }
+        ],
+        "pgn": "e4 e6 d4 c5 d5 d6 dxe6 fxe6 Nf3 Nf6 e5 Nd5 exd6 Bxd6 Ng5 O-O Bd3 h6 Nh7 Re8 Bxh6 gxh6 Qg4+ Kh8 Qg6 Rg8 Qxh6 Bf8",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "mkzJz",
+        "rating": 1298,
+        "plays": 501,
+        "solution": [
+          "h7f8"
+        ],
+        "themes": [
+          "discoveredCheck",
+          "oneMove",
+          "opening",
+          "discoveredAttack",
+          "mateIn1",
+          "kingsideAttack"
+        ],
+        "initialPly": 27
+      }
+    },
+    {
+      "game": {
+        "id": "bJjRAW0x",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "toutschuss",
+            "id": "toutschuss",
+            "color": "white",
+            "rating": 1820
+          },
+          {
+            "name": "Chandan_Kumar_Sinha",
+            "id": "chandan_kumar_sinha",
+            "color": "black",
+            "rating": 1765
+          }
+        ],
+        "pgn": "e4 d5 exd5 Nf6 Nc3 Nxd5 d4 Nxc3 bxc3 e5 Bc4 Qf6 Nf3 exd4 Bg5 Qf5 Qxd4 Be6",
+        "clock": "10+5"
+      },
+      "puzzle": {
+        "id": "DjpsZ",
+        "rating": 1377,
+        "plays": 134,
+        "solution": [
+          "d4d8"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 17
+      }
+    },
+    {
+      "game": {
+        "id": "WMJ74qm0",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Legend4707",
+            "id": "legend4707",
+            "color": "white",
+            "rating": 1870
+          },
+          {
+            "name": "aaronmedina",
+            "id": "aaronmedina",
+            "color": "black",
+            "rating": 1898
+          }
+        ],
+        "pgn": "e4 b6 d4 Bb7 d5 e6 Nc3 Bb4 Bd2 Nf6 d6 Bxc3 Bxc3 Bxe4 Nf3 O-O Qd2 Nd5 O-O-O cxd6 Ng5 Bg6 h4 h6 Bd3 Bxd3 Qxd3 hxg5 hxg5 Qxg5+ Kb1 Nxc3+ bxc3 d5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "1VMP6",
+        "rating": 1266,
+        "plays": 35,
+        "solution": [
+          "d3h7"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 33
+      }
+    },
+    {
+      "game": {
+        "id": "TaTJ9bOY",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Shcolya13",
+            "flair": "smileys.shushing-face",
+            "id": "shcolya13",
+            "color": "white",
+            "rating": 1718
+          },
+          {
+            "name": "superpony",
+            "id": "superpony",
+            "color": "black",
+            "rating": 1681
+          }
+        ],
+        "pgn": "e4 Nf6 Nf3 d6 Nc3 Bg4 Bc4 h6 d3 Nc6 Be3 Ne5 Nxe5 Bxd1",
+        "clock": "3+2"
+      },
+      "puzzle": {
+        "id": "YlFv8",
+        "rating": 1347,
+        "plays": 2051,
+        "solution": [
+          "c4f7"
+        ],
+        "themes": [
+          "middlegame",
+          "oneMove",
+          "mateIn1",
+          "attackingF2F7"
+        ],
+        "initialPly": 13
+      }
+    },
+    {
+      "game": {
+        "id": "SrIa29ix",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "EDWARD_ELRIK",
+            "flair": "nature.wing",
+            "id": "edward_elrik",
+            "color": "white",
+            "rating": 2349
+          },
+          {
+            "name": "melksham",
+            "title": "FM",
+            "id": "melksham",
+            "color": "black",
+            "rating": 2377
+          }
+        ],
+        "pgn": "c4 e6 Nc3 d5 cxd5 exd5 d4 Nf6 Bg5 Be7 e3 c6 Bd3 Nbd7 Qc2 Nh5 Bxe7 Qxe7 Nge2 Nb6 O-O g6 Rae1 O-O a3 Ng7 Nf4 Bf5 h3 Nc4 Rb1 Rae8 Rfe1 Bxd3 Nxd3 f5 f4 Nxe3 Qf2 Rf6 Ne5 Nxg2 Kxg2 Re6 Kh2 Nh5 b4 Nf6 Qh4 Ng4+ Kg3 Qxh4+ Kxh4 Nf2 Ne2 Ne4 Rbc1 h6 Rg1 Kg7 Nc3 g5+ Kh5",
+        "clock": "3+2"
+      },
+      "puzzle": {
+        "id": "32Gq3",
+        "rating": 1303,
+        "plays": 139,
+        "solution": [
+          "e4f6"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "master",
+          "middlegame"
+        ],
+        "initialPly": 62
+      }
+    },
+    {
+      "game": {
+        "id": "9XRC4sp0",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "pollovsky",
+            "title": "IM",
+            "id": "pollovsky",
+            "color": "white",
+            "rating": 2315
+          },
+          {
+            "name": "kaminari-no-kami-007",
+            "flair": "nature.comet",
+            "id": "kaminari-no-kami-007",
+            "color": "black",
+            "rating": 2295
+          }
+        ],
+        "pgn": "d4 d5 c4 c6 cxd5 cxd5 Bg5 Nf6 Bxf6 gxf6 e3 e6 Nc3 Nc6 Qh5 Bd6 Bd3 a6 Nge2 Ne7 O-O Ng6 Rad1 f5 g3 Qf6 Na4 b5 Nb6 Rb8 Nxc8 Rxc8 Qh6 Bf8 Qh3 Bg7 Rc1 O-O Rc3 b4 Rxc8 Rxc8 Qh5 a5 Rc1 Rxc1+ Nxc1 Qe7 Qd1 h5 Qa4 h4 Qxa5 hxg3 hxg3 Qg5 Ne2 Qg4 Qxb4 Nh4 Qb8+ Bf8 Qf4 Nf3+ Kf1",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "8Fk88",
+        "rating": 1348,
+        "plays": 1204,
+        "solution": [
+          "g4h3"
+        ],
+        "themes": [
+          "endgame",
+          "master",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 64
+      }
+    },
+    {
+      "game": {
+        "id": "WFpzqJRI",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Flexidexi",
+            "id": "flexidexi",
+            "color": "white",
+            "rating": 2118
+          },
+          {
+            "name": "powerstyle111",
+            "id": "powerstyle111",
+            "color": "black",
+            "rating": 2106
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Nc6 d4 exd4 Bc4 Be7 O-O Bf6 e5 Nxe5 Nxe5 Bxe5 Re1 Ne7 Rxe5 O-O Bg5 Re8 Qe2 Kf8 Qe4 f6 Qf3 d5 Bxf6 gxf6 Qxf6+ Kg8 Bxd5+ Nxd5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "OtXGm",
+        "rating": 1316,
+        "plays": 3045,
+        "solution": [
+          "e5g5"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "middlegame"
+        ],
+        "initialPly": 31
+      }
+    },
+    {
+      "game": {
+        "id": "IWX55Ac7",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "akam_sp",
+            "id": "akam_sp",
+            "color": "white",
+            "rating": 1937
+          },
+          {
+            "name": "Shah_i_po_Pecheni",
+            "id": "shah_i_po_pecheni",
+            "color": "black",
+            "rating": 1954
+          }
+        ],
+        "pgn": "e4 c5 Bc4 e6 d3 a6 Nc3 b5 Bb3 Bb7 Nf3 d5 exd5 exd5 Qe2+ Be7 a3 c4 Ba2 Nf6 O-O O-O Bg5 Nbd7 h3 Re8 Qd2 h6 Bh4 Nc5 Ne5 d4 Ne2 Qd5 Nf3 Qh5 Nf4 Qf5 Nxd4 Qd7 c3 cxd3 Nxd3 Nce4 Qe3 Ng4 hxg4 Bxh4 Qf4 Bg5 Qf5 Qxf5 gxf5 Re7 f3 Ng3 Rfe1 Rae8 Rxe7 Rxe7 Nc5 Bc8 Kf2 Nxf5 Nxf5 Bxf5 Nxa6 Be3+ Kg3 g5 Rd1 h5 Rd5 h4+ Kh2 Bf4+ Kg1 Re1+ Kf2",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "CBq7B",
+        "rating": 1331,
+        "plays": 221,
+        "solution": [
+          "f4g3"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "endgame"
+        ],
+        "initialPly": 78
+      }
+    },
+    {
+      "game": {
+        "id": "vGLM91Zy",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Craft95",
+            "flair": "smileys.alien-monster",
+            "id": "craft95",
+            "color": "white",
+            "rating": 1694
+          },
+          {
+            "name": "moha1mmed",
+            "flair": "activity.chess-pawn",
+            "id": "moha1mmed",
+            "color": "black",
+            "rating": 1683
+          }
+        ],
+        "pgn": "d4 d5 Bf4 Nc6 e3 Bf5 c4 f6 Nc3 e6 cxd5 exd5 Nf3 Qd7 Bd3 O-O-O Bxf5 Qxf5 O-O g5 Bg3 h5 h3 h4 Bh2 g4 hxg4 Qxg4 Nd2 Qg6 Qf3 h3 Rfe1 Be7 Qg3 Qh7",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "EHZ0r",
+        "rating": 1274,
+        "plays": 1461,
+        "solution": [
+          "g3c7"
+        ],
+        "themes": [
+          "middlegame",
+          "queensideAttack",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 35
+      }
+    },
+    {
+      "game": {
+        "id": "h3Z8BzhM",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Redshowingg",
+            "id": "redshowingg",
+            "color": "white",
+            "rating": 1933
+          },
+          {
+            "name": "Loren-Calisma",
+            "flair": "smileys.robot",
+            "id": "loren-calisma",
+            "color": "black",
+            "rating": 1874
+          }
+        ],
+        "pgn": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 g6 Nc3 Bg7 Be3 Nf6 f3 O-O Qd2 d5 exd5 Nxd5 Nxc6 bxc6 Bh6 Nxc3 bxc3 Qa5 Bxg7 Kxg7 Bd3 Qb6 h4 h5 g4 hxg4 fxg4 Bxg4 h5 Rh8 h6+ Kh7 Qf4 Be6 Qe5 Rhg8 O-O-O Bxa2 Rdg1 Be6 Bxg6+ Rxg6 Rxg6 Kxg6 Qg7+ Kf5 Rf1+ Ke4 h7 Qe3+ Kb1 Rb8+ Ka1 Qe2",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "GeZKt",
+        "rating": 1332,
+        "plays": 2878,
+        "solution": [
+          "g7d4"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "endgame"
+        ],
+        "initialPly": 59
+      }
+    },
+    {
+      "game": {
+        "id": "qJTyBxik",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "TellTheSnake",
+            "flair": "travel-places.racing-car",
+            "id": "tellthesnake",
+            "color": "white",
+            "rating": 1850
+          },
+          {
+            "name": "f212",
+            "id": "f212",
+            "color": "black",
+            "rating": 1787
+          }
+        ],
+        "pgn": "e4 d5 exd5 Nf6 c4 c6 dxc6 Nxc6 Nf3 e5 Nc3 Bg4 h3 Bh5 Qe2 Nd4 Qxe5+ Qe7 Qxe7+ Bxe7 Nxd4 O-O-O Nf5 Bb4 a3 Rhe8+ Ne3 Bc5 b4 Bd4 Ra2 Bxc3 dxc3",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "jDFwB",
+        "rating": 1282,
+        "plays": 355,
+        "solution": [
+          "d8d1"
+        ],
+        "themes": [
+          "middlegame",
+          "oneMove",
+          "mateIn1",
+          "pin"
+        ],
+        "initialPly": 32
+      }
+    },
+    {
+      "game": {
+        "id": "EWDmzzv1",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "UurokK",
+            "id": "uurokk",
+            "color": "white",
+            "rating": 1653
+          },
+          {
+            "name": "xxx1988",
+            "id": "xxx1988",
+            "color": "black",
+            "rating": 1634
+          }
+        ],
+        "pgn": "g4 e6 Bg2 d6 Nc3 Be7 d4 c6 Bd2 Nf6 Nf3 e5 d5 e4 g5 exf3 gxf6 fxg2 fxe7",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "5mR1x",
+        "rating": 1334,
+        "plays": 569,
+        "solution": [
+          "g2h1q"
+        ],
+        "themes": [
+          "advancedPawn",
+          "middlegame",
+          "oneMove",
+          "promotion",
+          "mateIn1",
+          "backRankMate",
+          "hangingPiece"
+        ],
+        "initialPly": 18
+      }
+    },
+    {
+      "game": {
+        "id": "bBGBYpMW",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "qedqedqed",
+            "id": "qedqedqed",
+            "color": "white",
+            "rating": 1774
+          },
+          {
+            "name": "Sheften",
+            "id": "sheften",
+            "color": "black",
+            "rating": 1773
+          }
+        ],
+        "pgn": "e4 c5 Nf3 a6 d4 cxd4 Nxd4 e6 Nc3 b5 Be3 Bb7 Bd3 g6 Nf3 Bg7 e5 Ne7 Be4 Qc7 Qd6 Qxd6 exd6 Bxe4 Nxe4 Nd5 Bd4 O-O O-O-O Bh6+ Kb1 f5 Neg5 Nc6 h4 Nxd4 Rxd4 Rab8 h5 Rb6 hxg6 hxg6 Rxh6 Rxd6 Rdh4 Kg7 Ne5 Kf6 Rxg6+ Kxe5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "lplRu",
+        "rating": 1371,
+        "plays": 3987,
+        "solution": [
+          "g5f3"
+        ],
+        "themes": [
+          "endgame",
+          "oneMove",
+          "mateIn1",
+          "cornerMate"
+        ],
+        "initialPly": 49
+      }
+    },
+    {
+      "game": {
+        "id": "q3nehgRO",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "zhiheng514",
+            "id": "zhiheng514",
+            "color": "white",
+            "rating": 1844
+          },
+          {
+            "name": "Santoshprasadshah",
+            "id": "santoshprasadshah",
+            "color": "black",
+            "rating": 1871
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Nc6 Bc4 Nf6 c3 Bc5 d4 exd4 cxd4 Bb4+ Nc3 Nxe4 Qb3 Bxc3+ bxc3 O-O O-O Na5 Qb4 Nxc4 Qxc4 d5 Qb3 Bg4 Ne5 Bc8 f3 Nf6 Bg5 h6 Bxf6 gxf6 Ng4 Bxg4 fxg4 Kg7 Qxb7 Qd7 Rae1 Rfb8 Qa6 Rb6 Qe2 Re6 Qf3 Rae8 Rb1 Re3 Qxf6+ Kg8 Qxh6 Qxg4 Rb8 Rxb8 Qxe3 Rb2 Qe8+ Kh7 Qxf7+ Qg7 Qf5+ Kh8 Qh3+ Kg8 Qf3 c6 Re1 Rb8 Qf4 Rf8 Qd6 Rf6 Re8+ Kh7 Qe5 Qf7 Qe2 Rf1+ Qxf1 Qxe8 Qb1+ Kg7 h3 Qe3+ Kh1 Qxc3 Qb7+ Kg6 Qxa7 Qc1+ Kh2 Qf4+ Kg1 Qe3+ Kf1 Qc1+ Kf2 Qd2+ Kf3 Qd1+ Ke3 Qg1+ Kd3 Qf1+ Kc3 Qc1+ Kb4 Qc4+ Ka5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "eckjL",
+        "rating": 1379,
+        "plays": 1197,
+        "solution": [
+          "c4b5"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "endgame",
+          "queenEndgame"
+        ],
+        "initialPly": 110
+      }
+    },
+    {
+      "game": {
+        "id": "EwFBEYHC",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Patosy86",
+            "id": "patosy86",
+            "color": "white",
+            "rating": 1941
+          },
+          {
+            "name": "BasicFist",
+            "flair": "activity.joystick",
+            "id": "basicfist",
+            "color": "black",
+            "rating": 1950
+          }
+        ],
+        "pgn": "d4 Nf6 Bf4 d6 Nc3 Nbd7 e4 e5 dxe5 dxe5 Be3 g6 Qd2 Bg7 O-O-O O-O Bh6 Re8 h4 Bh8 h5 Nxh5 Rxh5 gxh5 Nf3 c6 Bc4 Qe7 Rh1 Bf6 Rxh5 Nf8 Bxf8 Rxf8 Qh6 Rd8 Qxh7+ Kf8 Ng5 Bg4 Rh6 Bxg5+ Kb1 Bxh6",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "IEfjB",
+        "rating": 1378,
+        "plays": 598,
+        "solution": [
+          "h7h8"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "middlegame"
+        ],
+        "initialPly": 43
+      }
+    },
+    {
+      "game": {
+        "id": "oyNO6uUP",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "fouaaaf1288",
+            "id": "fouaaaf1288",
+            "color": "white",
+            "rating": 1933
+          },
+          {
+            "name": "Limton",
+            "id": "limton",
+            "color": "black",
+            "rating": 1971
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Nc6 Bc4 h6 Nc3 Nf6 O-O d6 d3 Be7 h3 O-O a3 a6 b4 Be6 Bb3 Bxb3 cxb3 Nh7 Nd5 Na7 Be3 Nc8 Nh2 c6 Nxe7+ Qxe7 Qh5 f6 f4 exf4 Rxf4 Qf7 Qe2 Qxb3 Rg4 Kh8 Rg6 Ne7 Rg3 Rae8 Rf1 Qxa3 Ng4 Qc3 Bxh6 gxh6 Nxh6 Qe5 Qg4 c5",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "DGPrc",
+        "rating": 1337,
+        "plays": 1156,
+        "solution": [
+          "g4g7"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 53
+      }
+    },
+    {
+      "game": {
+        "id": "Gh64nI0u",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "michaeldeng1224",
+            "id": "michaeldeng1224",
+            "color": "white",
+            "rating": 1938
+          },
+          {
+            "name": "Lapinews",
+            "title": "GM",
+            "id": "lapinews",
+            "color": "black",
+            "rating": 2680
+          }
+        ],
+        "pgn": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Be2 e5 Nf3 h6 O-O Be7 b3 Be6 Ba3 Rc8 Bb5 O-O Nd5 Bxd5 exd5 Nb8 Nh4 Ne4 Nf5 Nc3 Qg4 g6 Nxe7+ Qxe7 Bc4 b5 Bd3 Kh7 h4 f5 Qb4 e4 Bxb5 Nxb5 Qxb5 Rxc2 Rfc1 Rfc8 Rxc2 Rxc2 Qxb8 e3 Qxd6 exf2+ Kf1",
+        "clock": "3+5"
+      },
+      "puzzle": {
+        "id": "EhuB8",
+        "rating": 1352,
+        "plays": 6336,
+        "solution": [
+          "e7e2"
+        ],
+        "themes": [
+          "endgame",
+          "master",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 54
+      }
+    },
+    {
+      "game": {
+        "id": "H2vsrMwi",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "FSCS",
+            "id": "fscs",
+            "color": "white",
+            "rating": 2017
+          },
+          {
+            "name": "dusic",
+            "id": "dusic",
+            "color": "black",
+            "rating": 2048
+          }
+        ],
+        "pgn": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e5 Nb5 d6 Bc4 a6 Qf3 Nf6 N5c3 Bg4 Qg3 Qd7 f3 Be6 Bxe6 fxe6 Bg5 d5 Bxf6 gxf6 Qh3 d4 Na4 Qe7 Qh5+ Kd8 Nd2 b5 Nb6 Rb8 O-O-O Rxb6 Nb3 Kc7 f4 exf4 Nxd4 Nxd4 Rxd4 e5 Rd3 Rd6 Rhd1 Rxd3 Rxd3 Bg7 Rc3+ Kb7 Qd1 Rd8 Qg1 Rd4 g3 Bh6 Kb1 Qb4 a3 Qd6 Ka2 Rxe4 Qg2 Qd5+ b3 Rd4 Qh3 Bf8 Qc8+ Kb6",
+        "clock": "10+8"
+      },
+      "puzzle": {
+        "id": "BKGbj",
+        "rating": 1404,
+        "plays": 10435,
+        "solution": [
+          "c8c7"
+        ],
+        "themes": [
+          "endgame",
+          "mateIn1",
+          "oneMove"
+        ],
+        "initialPly": 73
+      }
+    },
+    {
+      "game": {
+        "id": "5GoOlKjm",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Kshetra12",
+            "flair": "people.princess-light-skin-tone",
+            "id": "kshetra12",
+            "color": "white",
+            "rating": 1883
+          },
+          {
+            "name": "Artrk",
+            "id": "artrk",
+            "color": "black",
+            "rating": 1762
+          }
+        ],
+        "pgn": "d4 Nf6 Nf3 e6 g3 b6 Bg2 Bb7 O-O c5 dxc5 Bxc5 Bf4 O-O Nc3 d5 Nd4 Nbd7 Nb3 Be7 Qd2 Nc5 Nb5 Qd7 N5d4 Rac8 Nxc5 Rxc5 Nf3 Ba6 Ne5 Qc8 c3 Nd7 Nd3 Rc4 Be3 Bf6 Rfc1 Ne5 Nxe5 Bxe5 Rc2 h6 Rac1 Qc7 Bd4 Rc8 Bxe5 Qxe5 f4 Qc7 Bf1 Rc5 b4 Rc6 e3 Bxf1 Kxf1 Rc4 a3 Qc6 Kf2 Rc7 Ke2 Qa4 Ra2 Qb3 Kd3 R4c6 Qb2 Qxb2 Rxb2 Rc4 Rb3 b5 h3 a6 g4 f6 h4 Kf7 Rb2 Kg6 Rg2 Kh7 h5 Kg8 g5 hxg5 fxg5 Rh4 gxf6 Rxh5 fxg7 Rxg7 Rxg7+ Kxg7 Rg1+ Kf6 Kd4 Rh3 Rf1+ Ke7 Re1 Kd6 e4",
+        "clock": "10+5"
+      },
+      "puzzle": {
+        "id": "Z9qeF",
+        "rating": 1381,
+        "plays": 639,
+        "solution": [
+          "e6e5"
+        ],
+        "themes": [
+          "endgame",
+          "rookEndgame",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 106
+      }
+    },
+    {
+      "game": {
+        "id": "QRZQhWfn",
+        "perf": {
+          "key": "classical",
+          "name": "Classical"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "abhi1125",
+            "id": "abhi1125",
+            "color": "white",
+            "rating": 1826
+          },
+          {
+            "name": "Monsori",
+            "id": "monsori",
+            "color": "black",
+            "rating": 1756
+          }
+        ],
+        "pgn": "b3 e5 Bb2 d6 e3 c5 c4 Nc6 a3 Nf6 Qc2 g6 Bd3 Bg7 Nf3 Qe7 Nc3 O-O h4 h6 h5 g5 Nxg5 hxg5 h6 Bh8 Nd5 Nxd5",
+        "clock": "30+20"
+      },
+      "puzzle": {
+        "id": "Yv9iW",
+        "rating": 1278,
+        "plays": 622,
+        "solution": [
+          "d3h7"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 27
+      }
+    },
+    {
+      "game": {
+        "id": "WEjMp3oo",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "henrytheoctopus",
+            "id": "henrytheoctopus",
+            "color": "white",
+            "rating": 1858
+          },
+          {
+            "name": "maia9",
+            "title": "BOT",
+            "id": "maia9",
+            "color": "black",
+            "rating": 1674
+          }
+        ],
+        "pgn": "d4 g6 Bf4 Bg7 Nc3 d6 e4 Nf6 Qd2 O-O O-O-O c6 Bh6 b5 Bxg7 Kxg7 f3 a5 h4 h5 g4 hxg4 h5 Nxh5 Rxh5 gxh5 Qg5+ Kh7 Qxh5+ Kg7 Qg5+ Kh7 Rd2 Rg8",
+        "clock": "5+4"
+      },
+      "puzzle": {
+        "id": "OPxQn",
+        "rating": 1285,
+        "plays": 6457,
+        "solution": [
+          "d2h2"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 33
+      }
+    },
+    {
+      "game": {
+        "id": "0EsGDMdI",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "juanpabloroman",
+            "id": "juanpabloroman",
+            "color": "white",
+            "rating": 1781
+          },
+          {
+            "name": "orestecampestre",
+            "id": "orestecampestre",
+            "color": "black",
+            "rating": 1762
+          }
+        ],
+        "pgn": "d4 Nc6 d5 Ne5 e4 e6 f4 Ng6 Nf3 Bc5 Nbd2 Nf6 Nb3 Bb6 Nfd4 Nxe4 dxe6 dxe6 c3 e5 fxe5 Nxe5 Be2 Qf6 Rf1 Qh4+ g3 Qxh2 Bf4 Ng6 Nf3 Bf2+ Rxf2",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "fPtIO",
+        "rating": 1322,
+        "plays": 2183,
+        "solution": [
+          "h2f2"
+        ],
+        "themes": [
+          "middlegame",
+          "oneMove",
+          "mateIn1",
+          "attackingF2F7"
+        ],
+        "initialPly": 32
+      }
+    },
+    {
+      "game": {
+        "id": "TQJcHnDj",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "Aron_Feller",
+            "id": "aron_feller",
+            "color": "white",
+            "rating": 1844
+          },
+          {
+            "name": "belloffa",
+            "id": "belloffa",
+            "color": "black",
+            "rating": 1930
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Qf6 Nc3 c6 Bc4 Bc5 O-O d6 a3 h5 b4 Bb6 Ne2 h4 d4 Ne7 Bg5 Qg6 dxe5 dxe5 Bxh4 f6 Bg3 Bg4 Qd3 Nd7 Qd6 Rd8 Qd3 Nc5 Qc3 Nxe4 Qb3 Bxf3 gxf3 Ng5 Kg2 Qh5 Rh1 Qh3+ Kg1 Nf5 f4 exf4 Nxf4 Qg4 Re1+ Kf8",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "QvsnD",
+        "rating": 1276,
+        "plays": 2174,
+        "solution": [
+          "f4g6"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "middlegame"
+        ],
+        "initialPly": 49
+      }
+    },
+    {
+      "game": {
+        "id": "zRXMKzAD",
+        "perf": {
+          "key": "rapid",
+          "name": "Rapid"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "TracMoc",
+            "id": "tracmoc",
+            "color": "white",
+            "rating": 2045
+          },
+          {
+            "name": "sangsw1642",
+            "id": "sangsw1642",
+            "color": "black",
+            "rating": 2121
+          }
+        ],
+        "pgn": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Nxc6 dxc6 Bf1 O-O d4 f6 b3 Re8 Bb2 Bf8 Nd2 Bf5 c4 Kh8 Qf3 Bg6 Bd3 Bxd3 Qxd3 Qd7 Nf3 Qg4 h3 Qh5 Rxe8 Rxe8 a4 Qf5 Qxf5 Nxf5 Re1 Rxe1+ Nxe1 Kg8 Nf3 Kf7 g4 Nd6 Kg2 Ne4 Bc1 g5 Be3 Bb4 Kf1 h6 Ke2 Nc3+ Kd3 Nd1 c5 b6 Kc4 a5 cxb6",
+        "clock": "10+0"
+      },
+      "puzzle": {
+        "id": "rGbFq",
+        "rating": 1276,
+        "plays": 4228,
+        "solution": [
+          "d1b2"
+        ],
+        "themes": [
+          "mateIn1",
+          "oneMove",
+          "endgame"
+        ],
+        "initialPly": 66
+      }
+    },
+    {
+      "game": {
+        "id": "3nRV92Ub",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "MassterofMayhem",
+            "title": "IM",
+            "patron": true,
+            "patronColor": 10,
+            "id": "massterofmayhem",
+            "color": "white",
+            "rating": 2640
+          },
+          {
+            "name": "Otsz",
+            "title": "FM",
+            "id": "otsz",
+            "color": "black",
+            "rating": 2550
+          }
+        ],
+        "pgn": "e4 e6 d4 d5 e5 c5 Qg4 Nc6 Nf3 cxd4 Bd3 g6 O-O h5 Qg3 Nge7 h4 Nf5 Bxf5 exf5 Re1 Be6 a3 a5 Bg5 Be7 Nbd2 Qb6 b3 O-O-O Qf4 Bxg5 Nxg5 Rhe8 Ndf3 Rd7 Red1 Rc7 b4 a4 Rac1 Kb8 c3 dxc3 Rxc3 Rec8 Rdc1 Nd8 Qd2 Rxc3 Rxc3 Rxc3 Qxc3 Qc6 Qxc6 Nxc6 Kf1 d4 Ke2 Bc4+ Kd2 Kc7 Nh3 Bd5 Nhg5 Bc4 Nh3 Kd7 Nf4 Ke7 g3 b5 Nd3 Bd5 Nfe1 Ke6 f4 Bc4 Nc5+ Kd5 Ned3 Nd8 Nd7 Ke4 Ne1 Ne6",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "CRe3q",
+        "rating": 1269,
+        "plays": 2240,
+        "solution": [
+          "d7f6"
+        ],
+        "themes": [
+          "endgame",
+          "master",
+          "masterVsMaster",
+          "oneMove",
+          "mateIn1"
+        ],
+        "initialPly": 85
+      }
+    },
+    {
+      "game": {
+        "id": "H6kGTLHi",
+        "perf": {
+          "key": "blitz",
+          "name": "Blitz"
+        },
+        "rated": true,
+        "players": [
+          {
+            "name": "ilikechess10101",
+            "id": "ilikechess10101",
+            "color": "white",
+            "rating": 2288
+          },
+          {
+            "name": "leochessq",
+            "title": "CM",
+            "flair": "travel-places.globe-showing-americas",
+            "id": "leochessq",
+            "color": "black",
+            "rating": 2289
+          }
+        ],
+        "pgn": "c4 Nf6 Nf3 d6 e3 Nc6 b3 e6 Bb2 Be7 Qc2 O-O Rg1 Nb4 Qc3 c5 a3 Nc6 g4 d5 g5 Ne8 Bd3 Qc7 h4 b6 h5 dxc4 bxc4 e5 g6 fxg6 hxg6 Rxf3 Be4 Rf6 gxh7+ Kh8 d3 Bb7 Nd2 Nd8 O-O-O Nf7 f4 exf4 Bxb7 Qxb7 Ne4 fxe3 Rxg7 Kxg7 Rg1+ Kxh7 Qe1 Rh6 Qg3 Qxe4",
+        "clock": "3+0"
+      },
+      "puzzle": {
+        "id": "v08Dc",
+        "rating": 1302,
+        "plays": 7859,
+        "solution": [
+          "g3g8"
+        ],
+        "themes": [
+          "oneMove",
+          "mateIn1",
+          "master",
+          "middlegame"
+        ],
+        "initialPly": 57
+      }
+    }
+  ]
+}

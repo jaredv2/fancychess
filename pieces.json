@@ -1,0 +1,52 @@
+{
+  "_comment": "Default fairy chess piece definitions. Edit or add pieces here.",
+  "King": {
+    "name": "King", "symbol": "K", "is_royal": true, "is_castler": false, "lethality": 0.1,
+    "rules": [
+      {"legs": [{"dx": 1, "dy": 0, "steps": 1, "leapable": false}]},
+      {"legs": [{"dx": -1, "dy": 0, "steps": 1, "leapable": false}]},
+      {"legs": [{"dx": 0, "dy": 1, "steps": 1, "leapable": false}]},
+      {"legs": [{"dx": 0, "dy": -1, "steps": 1, "leapable": false}]},
+      {"legs": [{"dx": 1, "dy": 1, "steps": 1, "leapable": false}]},
+      {"legs": [{"dx": 1, "dy": -1, "steps": 1, "leapable": false}]},
+      {"legs": [{"dx": -1, "dy": 1, "steps": 1, "leapable": false}]},
+      {"legs": [{"dx": -1, "dy": -1, "steps": 1, "leapable": false}]},
+      {"castling": true, "legs": []}
+    ]
+  },
+  "Pawn": {
+    "name": "Pawn", "symbol": "P", "is_royal": false, "is_castler": false, "lethality": 0.8,
+    "rules": [
+      {"legs": [{"dx": 1, "dy": 0, "steps": 1, "leapable": false}], "non_capture_only": true},
+      {"legs": [{"dx": 1, "dy": 0, "steps": 2, "leapable": false}], "non_capture_only": true, "first_move_only": true},
+      {"legs": [{"dx": 1, "dy": 1, "steps": 1, "leapable": false}], "capture_only": true},
+      {"legs": [{"dx": 1, "dy": -1, "steps": 1, "leapable": false}], "capture_only": true}
+    ]
+  },
+  "Rook": {
+    "name": "Rook", "symbol": "R", "is_royal": false, "is_castler": true, "lethality": 1.5,
+    "rules": [
+      {"legs": [{"dx": 1, "dy": 0, "steps": 7, "leapable": false}]},
+      {"legs": [{"dx": -1, "dy": 0, "steps": 7, "leapable": false}]},
+      {"legs": [{"dx": 0, "dy": 1, "steps": 7, "leapable": false}]},
+      {"legs": [{"dx": 0, "dy": -1, "steps": 7, "leapable": false}]}
+    ]
+  },
+  "SMover": {
+    "name": "SMover", "symbol": "S", "is_royal": false, "is_castler": false, "lethality": 1.0,
+    "rules": [
+      {"legs": [
+        {"dx": 2, "dy": 0, "steps": 1, "leapable": true},
+        {"dx": 0, "dy": 2, "steps": 1, "leapable": false},
+        {"dx": 1, "dy": 0, "steps": 1, "leapable": false}
+      ]},
+      {"legs": [
+        {"dx": 2, "dy": 0, "steps": 1, "leapable": true},
+        {"dx": 0, "dy": -2, "steps": 1, "leapable": false},
+        {"dx": 1, "dy": 0, "steps": 1, "leapable": false}
+      ]}
+    ]
+  }
+}
+
+
